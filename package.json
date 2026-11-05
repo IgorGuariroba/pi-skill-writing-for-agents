@@ -20,5 +20,9 @@
     "skills": [
       "."
     ]
-  }
+  },
+  "files": [
+    "SKILL.md",
+    "*.md"
+  ]
 }
