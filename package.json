@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-writing-for-agents",
+  "version": "1.0.0",
+  "description": "Writing documents for agents. Use when creating or editing skills, or modifying AGENTS.md or CLAUDE.md.",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "writing-for-agents",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-writing-for-agents.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-writing-for-agents#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
